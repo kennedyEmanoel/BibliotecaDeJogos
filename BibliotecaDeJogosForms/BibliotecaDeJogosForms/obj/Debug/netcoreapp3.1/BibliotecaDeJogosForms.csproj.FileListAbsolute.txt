@@ -1,0 +1,17 @@
+C:\Users\kenne\Documents\aulas\C#\GitHub_Biblioteca_Jogos\BibliotecaDeJogos\BibliotecaDeJogosForms\BibliotecaDeJogosForms\bin\Debug\netcoreapp3.1\BibliotecaDeJogosForms.exe
+C:\Users\kenne\Documents\aulas\C#\GitHub_Biblioteca_Jogos\BibliotecaDeJogos\BibliotecaDeJogosForms\BibliotecaDeJogosForms\bin\Debug\netcoreapp3.1\BibliotecaDeJogosForms.deps.json
+C:\Users\kenne\Documents\aulas\C#\GitHub_Biblioteca_Jogos\BibliotecaDeJogos\BibliotecaDeJogosForms\BibliotecaDeJogosForms\bin\Debug\netcoreapp3.1\BibliotecaDeJogosForms.runtimeconfig.json
+C:\Users\kenne\Documents\aulas\C#\GitHub_Biblioteca_Jogos\BibliotecaDeJogos\BibliotecaDeJogosForms\BibliotecaDeJogosForms\bin\Debug\netcoreapp3.1\BibliotecaDeJogosForms.runtimeconfig.dev.json
+C:\Users\kenne\Documents\aulas\C#\GitHub_Biblioteca_Jogos\BibliotecaDeJogos\BibliotecaDeJogosForms\BibliotecaDeJogosForms\bin\Debug\netcoreapp3.1\BibliotecaDeJogosForms.dll
+C:\Users\kenne\Documents\aulas\C#\GitHub_Biblioteca_Jogos\BibliotecaDeJogos\BibliotecaDeJogosForms\BibliotecaDeJogosForms\bin\Debug\netcoreapp3.1\BibliotecaDeJogosForms.pdb
+C:\Users\kenne\Documents\aulas\C#\GitHub_Biblioteca_Jogos\BibliotecaDeJogos\BibliotecaDeJogosForms\BibliotecaDeJogosForms\obj\Debug\netcoreapp3.1\BibliotecaDeJogosForms.csproj.AssemblyReference.cache
+C:\Users\kenne\Documents\aulas\C#\GitHub_Biblioteca_Jogos\BibliotecaDeJogos\BibliotecaDeJogosForms\BibliotecaDeJogosForms\obj\Debug\netcoreapp3.1\BibliotecaDeJogosForms.Form1.resources
+C:\Users\kenne\Documents\aulas\C#\GitHub_Biblioteca_Jogos\BibliotecaDeJogos\BibliotecaDeJogosForms\BibliotecaDeJogosForms\obj\Debug\netcoreapp3.1\BibliotecaDeJogosForms.csproj.GenerateResource.cache
+C:\Users\kenne\Documents\aulas\C#\GitHub_Biblioteca_Jogos\BibliotecaDeJogos\BibliotecaDeJogosForms\BibliotecaDeJogosForms\obj\Debug\netcoreapp3.1\BibliotecaDeJogosForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenne\Documents\aulas\C#\GitHub_Biblioteca_Jogos\BibliotecaDeJogos\BibliotecaDeJogosForms\BibliotecaDeJogosForms\obj\Debug\netcoreapp3.1\BibliotecaDeJogosForms.AssemblyInfoInputs.cache
+C:\Users\kenne\Documents\aulas\C#\GitHub_Biblioteca_Jogos\BibliotecaDeJogos\BibliotecaDeJogosForms\BibliotecaDeJogosForms\obj\Debug\netcoreapp3.1\BibliotecaDeJogosForms.AssemblyInfo.cs
+C:\Users\kenne\Documents\aulas\C#\GitHub_Biblioteca_Jogos\BibliotecaDeJogos\BibliotecaDeJogosForms\BibliotecaDeJogosForms\obj\Debug\netcoreapp3.1\BibliotecaDeJogosForms.csproj.CoreCompileInputs.cache
+C:\Users\kenne\Documents\aulas\C#\GitHub_Biblioteca_Jogos\BibliotecaDeJogos\BibliotecaDeJogosForms\BibliotecaDeJogosForms\obj\Debug\netcoreapp3.1\BibliotecaDeJogosForms.dll
+C:\Users\kenne\Documents\aulas\C#\GitHub_Biblioteca_Jogos\BibliotecaDeJogos\BibliotecaDeJogosForms\BibliotecaDeJogosForms\obj\Debug\netcoreapp3.1\BibliotecaDeJogosForms.pdb
+C:\Users\kenne\Documents\aulas\C#\GitHub_Biblioteca_Jogos\BibliotecaDeJogos\BibliotecaDeJogosForms\BibliotecaDeJogosForms\obj\Debug\netcoreapp3.1\BibliotecaDeJogosForms.genruntimeconfig.cache
+C:\Users\kenne\Documents\aulas\C#\GitHub_Biblioteca_Jogos\BibliotecaDeJogos\BibliotecaDeJogosForms\BibliotecaDeJogosForms\obj\Debug\netcoreapp3.1\BibliotecaDeJogosForms.Properties.Resources.resources
